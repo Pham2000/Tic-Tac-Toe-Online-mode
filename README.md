@@ -9,7 +9,8 @@ what on the server side.
 Program will be working with socket to send and recieve stuff.
 
 ## Result:
-Three real time prompt that display, the player that win. Though the program is incomplete.
+Three real time prompt that display, and box to indicate which player win. 
+THe program is incomplete
 
 ## Language:
 java
